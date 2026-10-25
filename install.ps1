@@ -1,4 +1,4 @@
-# 空き家ビジネスメーカー 〜秋田の空き家から事業を起こす〜 — ワンライン導入＆起動（Windows / PowerShell）
+﻿# 空き家ビジネスメーカー 〜秋田の空き家から事業を起こす〜 — ワンライン導入＆起動（Windows / PowerShell）
 #
 # 導入コマンドはアシュラのサイト（https://service.if-juku.net/Ashura/arts）で配布しています。
 #
